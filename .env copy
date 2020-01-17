@@ -1,0 +1,1 @@
+BASE_URL=mongodb+srv://<USERNAME>:<PASSWORD>@cluster0-g6gh6.mongodb.net/<DATABASE>?retryWrites=true&w=majority
